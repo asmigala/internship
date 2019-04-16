@@ -1,0 +1,24 @@
+1. Maven
+    - what is it used for?
+    - where should you put maven installation?
+    - download versions 3.3.9 and the newest maven version for java8, set up your linux to use the newer version
+    - what is maven repository
+    - where can you find maven settings.xml
+    - what is folder ~/.m2 used for
+    - what is maven profile
+
+2. Java
+    - what is it used for?
+    - what are JDK, SDK, JRE, java binary code
+    - where should you put your java installation?
+    - what is environment variable JAVA_HOME
+    - openjdk vs oracle java
+    - manually download newest openjdk-1.8 and set it as your permanent default java
+
+3. Types of tests
+    - smoke
+    - unit
+    - integration
+    - performance
+    - long-running
+    - other?

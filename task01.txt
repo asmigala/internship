@@ -1,0 +1,14 @@
+Install fedora on either computer or external HDD
+
+What are following terms used for?
+
+shell
+sudo
+bashrc
+alias
+linux environment variable
+    - how to set permanent/temporary variable
+    - what is PATH variable
+
+opensource
+upstream in software development

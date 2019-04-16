@@ -1,0 +1,23 @@
+1. Git and common commands - what is the purpose of following commands?
+    - `git remote -v`
+    - `git remote add upstream <repo-url>`
+    - `git fetch`
+    - `git pull`
+    - `git rebase upstream/master master`
+    - `git rebase -i HEAD~3`
+    - `git push -f`
+    - `git commit --amend`
+    - `git reset --hard upstream/myBranch`
+    - `git reset --soft origin/myBranch`
+
+2. Basic fedora customization - get familiar with following topics and install the tools which you like
+    - desktop environment
+        - gnome tweek tools
+    - terminal
+        - terminator
+    - shell
+        - zsh
+            - https://ohmyz.sh/
+            - plugins: git, zsh-autosuggestions, zsh-history-substring-search, zsh-syntax-highlighting
+            - ~/.zshrc
+            - select a theme which you like
